@@ -1,4 +1,4 @@
-# Hi, I'm Shadi 👋
+# Hi, I'm Shadi 
 
 I'm a junior backend developer focused on building reliable APIs and data-driven applications with **C#**, **ASP.NET Core**, **Entity Framework Core**, and **PostgreSQL**.
 
@@ -15,7 +15,7 @@ I'm currently looking for a junior backend/.NET opportunity where I can contribu
 
 ## Featured projects
 
-### ⚽ Pitchside — football pitch booking backend
+###  Pitchside — football pitch booking backend
 
 **Active project · C# · .NET 10 · ASP.NET Core · EF Core · PostgreSQL**
 
@@ -31,7 +31,7 @@ Key engineering work includes:
 
 _The repository is currently being prepared for publication._
 
-### 🚛 FOMS — Fleet Operations Management System
+###  FOMS — Fleet Operations Management System
 
 **Private project · NestJS · Prisma · PostgreSQL · React · TypeScript**
 
